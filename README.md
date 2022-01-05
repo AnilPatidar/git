@@ -14,7 +14,7 @@ git -ls-fiiles -s
 
 It should show all the staged files
 
-Step 3: remove file from stagging area and put it in tracking file
+Step 3: remove file from stagging area and put it in untrack files 
 
 git rm --cached file.txt
 
