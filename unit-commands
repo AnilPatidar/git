@@ -1,0 +1,15 @@
+#To list files in table formate
+ls -l
+
+#TO list hidden files as well
+ls -la
+
+#to see current director
+pwd
+
+#to go to parent directory use ..
+cd ..
+
+#to create folder
+mkdir foldername
+
