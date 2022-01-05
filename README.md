@@ -1,6 +1,9 @@
 # git
 All About Git Commands
 
+Shell commands
+
+https://stashchuk.com/static/git/3-basic-shell-commands.pdf
 
 #----------Trick 1-------------#
 
